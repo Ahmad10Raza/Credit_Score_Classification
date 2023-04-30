@@ -1,6 +1,6 @@
 # Credit_Score_Classification
-For Use this project :
-Clone repositorie
+* For Use this project :
+* Clone repositorie
 In Image Folder  Contain All Visualization Image
 Credit_Score_Classiifcation.pdf contain all code nad as wel as Image
 Run All Jupyter cell
