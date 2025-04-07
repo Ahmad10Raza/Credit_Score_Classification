@@ -1,11 +1,16 @@
+# source ~/anaconda3/etc/profile.d/conda.sh
+
+conda activate credit_score
+
 # Credit_Score_Classification
+
 * For Use this project :
 * Clone repositorie
 * In Image Folder  Contain All Visualization Image
 * Credit_Score_Classiifcation.pdf contain all code nad as wel as Image
 * Run All Jupyter cell
 * Give Input : For Example
-* Credit Score Prediction : 
+* Credit Score Prediction :
 * Annual Income: 19114.12
 * Monthly Inhand Salary: 1824.843333
 * Number of Bank Accounts: 2
